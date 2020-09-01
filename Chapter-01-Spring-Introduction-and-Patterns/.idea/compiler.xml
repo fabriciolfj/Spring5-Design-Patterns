@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Chapter-08-Spring-ORM-patterns" />
+        <module name="Chapter-06-Spring-AOP-XML" />
+        <module name="Chapter-05-Spring-Life-Cycle-Callback" />
+        <module name="Chapter-02-Common-Design-Patterns" />
+        <module name="demo" />
+        <module name="Chapter-05-Custom-Scope-Bean" />
+        <module name="Chapter-10-Spring-MVC-pattern" />
+        <module name="Chapter-09-Spring-Cache" />
+        <module name="Chapter-03-Spring-Dependency-Injection" />
+        <module name="Chapter-07-Spring-JDBC-template-pattern" />
+        <module name="Chapter-01-Spring-Introduction-and-Patterns" />
+        <module name="Chapter-11-Spring-Reactive-Web-Functional" />
+        <module name="07-Spring-Factory-Bean" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="07-Spring-Factory-Bean" target="1.8" />
+      <module name="Chapter-01-Spring-Introduction-and-Patterns" target="1.8" />
+      <module name="Chapter-02-Common-Design-Patterns" target="1.5" />
+      <module name="Chapter-03-Spring-Dependency-Injection" target="1.8" />
+      <module name="Chapter-05-Custom-Scope-Bean" target="1.8" />
+      <module name="Chapter-05-Spring-Life-Cycle-Callback" target="1.8" />
+      <module name="Chapter-06-Spring-AOP-XML" target="1.8" />
+      <module name="Chapter-07-Spring-JDBC-template-pattern" target="1.8" />
+      <module name="Chapter-08-Spring-ORM-patterns" target="1.8" />
+      <module name="Chapter-09-Spring-Cache" target="1.8" />
+      <module name="Chapter-10-Spring-MVC-pattern" target="1.8" />
+      <module name="Chapter-11-Spring-Reactive-Web-Functional" target="1.5" />
+      <module name="demo" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

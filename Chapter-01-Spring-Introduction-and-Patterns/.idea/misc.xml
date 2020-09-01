@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../Chapter-03-Spring-Dependency-Injection/pom.xml" />
+        <option value="$PROJECT_DIR$/../Chapter-02-Common-Design-Patterns/pom.xml" />
+        <option value="$PROJECT_DIR$/../Chapter-04-Spring-Factory-Bean/pom.xml" />
+        <option value="$PROJECT_DIR$/../Chapter-05-Custom-Scope-Bean/pom.xml" />
+        <option value="$PROJECT_DIR$/../Chapter-05-Spring-Life-Cycle-Callback/pom.xml" />
+        <option value="$PROJECT_DIR$/../Chapter-06-Spring-AOP-XML/pom.xml" />
+        <option value="$PROJECT_DIR$/../Chapter-07-Spring-JDBC-template-pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/../Chapter-08-Spring-ORM-patterns/pom.xml" />
+        <option value="$PROJECT_DIR$/../Chapter-09-Spring-Cache/pom.xml" />
+        <option value="$PROJECT_DIR$/../Chapter-10-Spring-MVC-pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/../Chapter-11-Spring-Reactive-Pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/../Chapter-11-Spring-Reactive-Web-Functional/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_14" project-jdk-name="openjdk-14" project-jdk-type="JavaSDK" />
+</project>
